@@ -1,0 +1,44 @@
+body {
+  background-color: white;
+  text-align: center;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.paint {
+  display: inline-grid;
+  grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
+  grid-gap: 1px 1px;
+  grid-template-rows: auto auto;
+}
+
+.wheels {
+  display: inline-grid;
+  grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
+  grid-gap: 1px 1px;
+  grid-template-rows: auto auto;
+}
+
+.car-container {
+  position: relative;
+}
+
+.car-image {
+  position: relative;
+}
+
+.left-arrow  {
+  position: absolute;
+  left: 0px;
+  bottom: 275px;
+}
+
+.right-arrow {
+  position: absolute;
+  transform: rotate(180deg);
+  right: 0;
+  bottom: 330px;
+}
+
+
