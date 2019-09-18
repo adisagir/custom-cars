@@ -1,24 +1,6 @@
-# README
+# Custom Cars README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
+Custom Cars allows you to customize the design of a vehicle as well as browse different customizations from other users.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Features
