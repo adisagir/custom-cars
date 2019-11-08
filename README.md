@@ -21,7 +21,7 @@ During customization, users can click the left and right arrows on the image car
 
 ### Nickname
 A user can give a nickname to their customized vehicle and also change it with a patch method if they so choose to. 
-<img src="http://www.giphy.com/gifs/dab5lLFdxEZiVgSDRX" alt="nickname" width="700"/>
+<img src="https://media.giphy.com/media/dab5lLFdxEZiVgSDRX/giphy.gif" alt="nickname" width="700"/>
 
 ### Browse
 You can look at what customizations other users have created and their nicknames on this page by clicking the "other garages" button.
